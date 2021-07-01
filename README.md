@@ -1,1 +1,2 @@
-# gama-no-github
+README.MD
+ESTOU ACHANDO BACANA O CURSO
